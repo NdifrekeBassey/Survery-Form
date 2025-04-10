@@ -23,7 +23,7 @@ To run this project on your local machine, you can either clone the repository o
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/eagletech-survey-form.git
+   git clone https://github.com/NdifrekeBassey/eagletech-survey-form.git
 
 2. Open the files:
 
@@ -114,7 +114,7 @@ For any questions or contributions, feel free to reach out:
 
 Your Name (e.g., Ndifreke-Abasi Bassey)
 
-Email: [your-email@example.com]
+Email: [ndifrekebassey13@gmail.com]
 
 
 
